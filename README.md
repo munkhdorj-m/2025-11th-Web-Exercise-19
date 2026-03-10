@@ -6,11 +6,11 @@ https://drive.google.com/file/d/1YToYEgA8EHDeHhsgdRNUVl8gfB6w1_7Y/view?usp=shari
 ## Exercise: Weather App with forecast
 
 
-The application must now make two separate requests to the OpenWeather API: one for the current weather, and one for the forecast. Because the forecast API returns 40 different data points (every 3 hours for 5 days), you will need to filter this data down to just one update per day.
+[!NOTE] The application must now make two separate requests to the OpenWeather API: one for the current weather, and one for the forecast. Because the forecast API returns 40 different data points (every 3 hours for 5 days), you will need to filter this data down to just one update per day.
 
-### API Example: https://api.openweathermap.org/data/2.5/weather?q={CITY}&appid=YOUR_API_KEY&units=metric
+API Example: `https://api.openweathermap.org/data/2.5/weather?q={CITY}&appid=YOUR_API_KEY&units=metric`
 
-### API Guide for openweathermap: https://openweathermap.org/current?collection=current_forecast
+API Guide for openweathermap: https://openweathermap.org/current?collection=current_forecast
 
 ### Requirements
 1. The user can enter a city name in a text input field.
