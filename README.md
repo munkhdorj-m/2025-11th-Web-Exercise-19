@@ -16,7 +16,7 @@ API Guide for openweathermap: https://openweathermap.org/current?collection=curr
 ### Requirements
 1. The user can enter a city name in a text input field.
 2. After searching, the page must display information shown in video.
-3. Below the current weather, display a row of 5 mini-cards representing the forecast for the next 5 days. Each mini-card must show.
+3. Below the current weather, display a row of 5 mini-cards representing the forecast for the next 5 days.
 4. Change the background color of the entire page depending on the current temperature.
 
 
